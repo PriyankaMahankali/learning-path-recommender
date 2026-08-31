@@ -1,0 +1,26 @@
+title,skill,level,type,duration,description,url
+Python for Beginners,Python,Beginner,Course,4 weeks,Learn Python programming fundamentals,https://www.python.org/about/gettingstarted/
+Python for Data Science,Python,Intermediate,Course,3 weeks,Apply Python to data analysis and scientific computing,https://www.kaggle.com/learn/python
+Statistics Fundamentals,Statistics,Beginner,Course,3 weeks,Learn probability statistics and statistical reasoning,https://www.khanacademy.org/math/statistics-probability
+SQL Fundamentals,SQL,Beginner,Course,3 weeks,Learn databases queries and SQL fundamentals,https://www.khanacademy.org/computing/computer-programming/sql
+Advanced SQL,SQL,Intermediate,Course,4 weeks,Learn advanced queries joins and database techniques,https://www.postgresql.org/docs/current/tutorial-sql.html
+Pandas for Data Analysis,Pandas,Beginner,Course,2 weeks,Learn data manipulation and analysis using Pandas,https://pandas.pydata.org/docs/getting_started/intro_tutorials/
+NumPy Fundamentals,NumPy,Beginner,Course,2 weeks,Learn numerical computing using NumPy,https://numpy.org/learn/
+Data Visualization with Python,Data Visualization,Intermediate,Course,3 weeks,Create meaningful visualizations using Python,https://matplotlib.org/stable/tutorials/
+Machine Learning Fundamentals,Machine Learning,Intermediate,Course,5 weeks,Learn supervised and unsupervised machine learning,https://scikit-learn.org/stable/getting_started.html
+Deep Learning Fundamentals,Deep Learning,Advanced,Course,6 weeks,Learn neural networks and deep learning,https://www.tensorflow.org/learn
+Mathematics for AI,Mathematics,Beginner,Course,4 weeks,Learn mathematical concepts required for artificial intelligence,https://www.khanacademy.org/math
+Neural Networks,Neural Networks,Advanced,Course,5 weeks,Understand neural network architectures and training,https://www.tensorflow.org/guide/keras
+Model Deployment,Model Deployment,Intermediate,Course,3 weeks,Learn how to deploy machine learning models,https://fastapi.tiangolo.com/
+MLOps Fundamentals,MLOps,Advanced,Course,4 weeks,Learn machine learning operations and model lifecycle,https://mlflow.org/docs/latest/ml/tracking/
+HTML Fundamentals,HTML,Beginner,Course,2 weeks,Learn HTML structure and web page development,https://developer.mozilla.org/en-US/docs/Learn/HTML
+CSS Fundamentals,CSS,Beginner,Course,2 weeks,Learn styling and responsive web design,https://developer.mozilla.org/en-US/docs/Learn/CSS
+JavaScript Fundamentals,JavaScript,Beginner,Course,4 weeks,Learn JavaScript programming for web development,https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+Git and GitHub,Git,Beginner,Course,1 week,Learn version control using Git and GitHub,https://skills.github.com/
+React Fundamentals,React,Intermediate,Course,4 weeks,Build modern web interfaces using React,https://react.dev/learn
+Backend Development,Backend Development,Intermediate,Course,5 weeks,Learn server side web application development,https://developer.mozilla.org/en-US/docs/Learn/Server-side
+Database Fundamentals,Database,Beginner,Course,3 weeks,Learn database concepts and SQL,https://www.khanacademy.org/computing/computer-programming/sql
+Programming Fundamentals,Programming,Beginner,Course,4 weeks,Learn programming concepts and problem solving,https://www.python.org/about/gettingstarted/
+Data Structures,Data Structures,Intermediate,Course,5 weeks,Learn fundamental data structures,https://www.geeksforgeeks.org/data-structures/
+Algorithms,Algorithms,Advanced,Course,5 weeks,Learn algorithm design and analysis,https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+Software Testing,Software Testing,Intermediate,Course,3 weeks,Learn software testing methods and practices,https://www.geeksforgeeks.org/software-testing/

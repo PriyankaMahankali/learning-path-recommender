@@ -1,0 +1,30 @@
+goal,skill,priority,prerequisite
+Data Scientist,Python,High,None
+Data Scientist,Statistics,High,None
+Data Scientist,SQL,High,None
+Data Scientist,Pandas,High,Python
+Data Scientist,NumPy,Medium,Python
+Data Scientist,Data Visualization,Medium,Pandas
+Data Scientist,Machine Learning,High,Statistics
+Data Scientist,Deep Learning,Low,Machine Learning
+AI Engineer,Python,High,None
+AI Engineer,Mathematics,High,None
+AI Engineer,Statistics,High,None
+AI Engineer,Machine Learning,High,Statistics
+AI Engineer,Deep Learning,High,Machine Learning
+AI Engineer,Neural Networks,High,Deep Learning
+AI Engineer,Model Deployment,Medium,Machine Learning
+AI Engineer,MLOps,Low,Model Deployment
+Web Developer,HTML,High,None
+Web Developer,CSS,High,HTML
+Web Developer,JavaScript,High,HTML
+Web Developer,Git,Medium,None
+Web Developer,React,Medium,JavaScript
+Web Developer,Backend Development,Medium,JavaScript
+Web Developer,Database,Medium,Backend Development
+Software Developer,Programming,High,None
+Software Developer,Data Structures,High,Programming
+Software Developer,Algorithms,High,Data Structures
+Software Developer,Git,Medium,None
+Software Developer,Database,Medium,Programming
+Software Developer,Software Testing,Medium,Programming
